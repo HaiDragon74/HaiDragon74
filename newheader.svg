@@ -1,0 +1,185 @@
+<svg fill="none" viewBox="0 0 1500 400" width="1500" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				
+.container {
+    font-family:
+        system-ui,
+        -apple-system,
+        'Segoe UI',
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        'Apple Color Emoji',
+        'Segoe UI Emoji';
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin: 0;
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(-45deg, #273849, #0d1117);
+    background-size: 200% 200%;
+    animation: gradient 15s ease infinite;
+    border-radius: 20px;
+    color: white;
+    text-align: left;
+}
+.rowcontainer {
+    position:absolute;
+    top: 10%;
+    height: 160px;
+    overflow: hidden;
+    font-family: "Lato", sans-serif;
+    font-size: 35px;
+    line-height: 40px;
+    color: #ecf0f1;
+}
+				
+.kikocontainer {
+				display: flex;
+				margin: 0;
+    width: 100%;
+    align-items: left;
+    justify-content: left;
+    position:absolute;
+left: 3%;
+    top: 55%;
+    height: 160px;
+    overflow: hidden;
+    font-family: "Lato", sans-serif;
+    font-size: 35px;
+    line-height: 40px;
+    color: #ecf0f1;
+				text-align: left;
+}
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.content__container {
+    font-weight: 50px;
+    overflow: hidden;
+    height: 50px;
+    padding: 0 50px;
+}
+.content__container__text {
+    display: inline;
+    float: left;
+    margin: 0;
+}
+.content__container__list {
+    margin-top: 0;
+    padding-left: 0px;
+    text-align: left;
+    list-style: none;
+    -webkit-animation-name: change;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    animation-name: change;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+.content__container__list__item {
+    line-height: 50px;
+    margin: 0;
+}
+@-webkit-keyframes opacity {
+    0%,
+    100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+@keyframes opacity {
+    0%,
+    100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+@keyframes change {
+    0%,
+    12.66%,
+    100% {
+        transform: translate3d(0, 0, 0);
+    }
+    16.66%,
+    29.32% {
+        transform: translate3d(0, -25%, 0);
+    }
+    33.32%,
+    45.98% {
+        transform: translate3d(0, -50%, 0);
+    }
+    49.98%,
+    62.64% {
+        transform: translate3d(0, -75%, 0);
+    }
+    66.64%,
+    79.3% {
+        transform: translate3d(0, -50%, 0);
+    }
+    83.3%,
+    95.96% {
+        transform: translate3d(0, -25%, 0);
+    }
+}
+h1 {
+    font-size: 50px;
+    color: #efefef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 20%;
+}
+p {
+    font-size: 80px;
+    color: #3da47a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 20%;
+}
+</style>
+
+<div class="container">
+    <div class="rowcontainer">
+        <div class="content__container">
+            <ul class="content__container__list">
+                <li class="content__container__list__item">Hello 👋</li>
+                <li class="content__container__list__item">Kotlin </li>
+                <li class="content__container__list__item">Unity </li>
+                <li class="content__container__list__item">Jetpack </li>
+            </ul>
+        </div>
+
+
+        <div class="content__container">
+            <ul class="content__container__list">
+                <li class="content__container__list__item">I'm Kiko </li>
+                <li class="content__container__list__item">Developer</li>
+                <li class="content__container__list__item">Developer</li>
+                <li class="content__container__list__item">Compose</li>
+            </ul>
+        </div>
+    </div>
+    <div class="kikocontainer">
+        <p>
+            Kiko
+        </p>
+    </div>
+</div>
+
+</div></foreignObject></svg>
