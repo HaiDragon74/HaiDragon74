@@ -2,7 +2,7 @@
 
 <div style="float: left;">
  <br>
-  <img src="standartheader.svg" alt="This is HaiDragon!">
+  <img src="standartheader.svg" alt="This is Kiko!">
  <br>
 </div>
 
@@ -11,20 +11,20 @@
  GitHub States </a> 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
-[![Haidragon GitHub stats](https://github-readme-stats.vercel.app/api?username=haidragon&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haidragon&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haidragon&theme=vue-dark&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+[![Kiko GitHub stats](https://github-readme-stats.vercel.app/api?username=badkiko&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badkiko&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BadKiko&theme=vue-dark&hide_border=true&border_radius=16)](https://git.io/streak-stats)
 
 <h1 align="center">
  <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
  My Projects </a> 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haidragon&repo=MyProjects&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/Haidragon/MyProjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=MyProjects&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/MyProjects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haidragon&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/Haidragon/Tsunami-Fi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haidragon&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/Haidragon/kige)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/kige)
 
 
 <h1 align="center">
@@ -33,4 +33,4 @@
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
 
-[![Haidragon wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Haidragon&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kiko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kiko&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
