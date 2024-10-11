@@ -20,11 +20,11 @@
  My Projects </a> 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=MyProjects&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/MyProjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=music&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/music)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/Tsunami-Fi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/kige)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/kige)
 
 
 <h1 align="center">
