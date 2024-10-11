@@ -22,9 +22,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=music&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/music)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=app-chat&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/app-chat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/kige)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haidragon74&repo=CICD&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/haidragon74/CICD)
 
 
 <h1 align="center">
