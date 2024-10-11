@@ -33,4 +33,4 @@
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
 
-[![Kiko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haidragon74&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kiko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HaiDragon74&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
