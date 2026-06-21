@@ -30,5 +30,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HaiDragon74&range=all_time&layout=compact&theme=vue-dark&hide_border=true&border_radius=16" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HaiDragon74&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
