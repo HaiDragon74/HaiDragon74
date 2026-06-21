@@ -28,7 +28,8 @@
 <h1 align="center">
   ⏱️ WakaTime Stats
 </h1>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HaiDragon74&layout=compact&theme=vue-dark&hide_border=true" />
+  <a href="https://wakatime.com/@HaiDragon74">
+    <img src="https://wakatime.com/badge/user/YOUR_USER_ID.svg" />
+  </a>
 </p>
